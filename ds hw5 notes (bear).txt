@@ -1,0 +1,27 @@
+notes for homework 5
+
+My proposals, from least to most preferred:
+
+How can one use the fewest pals to have the most evenly capable team?
+- Will need to analyze:
+  - Dispersal of work capabilities
+  - Dispersal of combat stats
+- Can be visualized using:
+  - Histograms for how many pals there are of any certain type
+  - Scatterplot for number of work capabilities vs total combat skills of each pal
+  - Bubble chart/Venn diagram showing work capabilities of each pal
+
+What makes a pal high-tier? How does a pal's tier (as listed on palworld.cc) relate to its
+  element, region, work suitability, and stats? 
+- Will need to analyze:
+  - Element
+  - Region of origin
+  - Work suitability
+  - Combat stats
+- Can be visualized using:
+  - Scatterplot charting combat stats against pal tier
+  - Histograms of pal tier for each element/region/work suitability
+  - Scatterplot showing all pals' total "score" as a combination of their ranking in the features 
+    deemed to be relevant from the last graphs (e.g. if we find no correlation between region and
+    tier, then don't include it in this chart) vs their tier. Hopefully this should be very positively
+    correlated.
